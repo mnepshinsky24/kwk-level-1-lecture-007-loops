@@ -30,7 +30,7 @@ You'd really want to keep on dancing as long as the music is playing (and if you
 
 ## Introducing Loops
 
-**note:** upcoming are a series of code snippets. Each one grows on the previous. Regardless, make sure to describe each line whenever a new concept/keyword/snippet is introduced. A good technique here can be to take turns with the students, where each student reads one line and describes only what that one line does, before moving on to the next students. The first time they will be slow, but after getting the hang of it they will be able to do it rapid fire because they only need to focus on what their single line does, ignoring the larger context.
+**note:** Upcoming are a series of code snippets. Each one grows on the previous. Regardless, make sure to describe each line whenever a new concept/keyword/snippet is introduced. A good technique here can be to take turns with the students, where each student reads one line and describes only what that one line does, before moving on to the next students. The first time they will be slow, but after getting the hang of it they will be able to do it rapid fire because they only need to focus on what their single line does, ignoring the larger context.
 
 First things first: the `loop` method. Loop runs the code inside of its block without end. It executes the block top down then repeats, simple as that. If we had backup dancers, and needed to communicate to them what they should do for the whole set, we wouldn't say "step left, step right, step left, step right..." as many times as required. Instead, we would say "Step left, step right. Repeat without end.":
 
@@ -56,6 +56,8 @@ exit
 ```
 
 We never saw our dancer's say "I'm tired". This makes sense, because we never opened up an opportunity to do so. Whenever they were finished with their current move, they were immediately focused on doing their next move, which was to repeat their "one...and two..." move.
+#### CFU 
+***Currently Brainstorming for CFU. In pairs, go back and forth and describe the purpose of each line of an example loop. Create your own loop with a partner and share it with the class (either at your seat or on the board)*** 
 
 [Two Step and Repeat](#) **THIS LAB NEEDS TO BE CREATED**
 
