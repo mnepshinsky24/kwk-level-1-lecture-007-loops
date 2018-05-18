@@ -56,8 +56,17 @@ exit
 ```
 
 We never saw our dancer's say "I'm tired". This makes sense, because we never opened up an opportunity to do so. Whenever they were finished with their current move, they were immediately focused on doing their next move, which was to repeat their "one...and two..." move.
+
 #### CFU 
 ***Currently Brainstorming for CFU. In pairs, go back and forth and describe the purpose of each line of an example loop. Create your own loop with a partner and share it with the class (either at your seat or on the board)*** 
+
+* Turn and Talk
+* Have students write on the board
+* Think-Pair-Share
+* Add multiple alternative assessments - spur space to fail fast
+* A good technique here can be to take turns with the students, where each student reads one line and describes only what that one line does, before moving on to the next students. The first time they will be slow, but after getting the hang of it they will be able to do it rapid fire because they only need to focus on what their single line does, ignoring the larger context.
+* Create your own loop
+* Ask students to guess what this is going to print before running it
 
 [Two Step and Repeat](#) **THIS LAB NEEDS TO BE CREATED**
 
